@@ -9,3 +9,4 @@
   from = "/*"
   to = "/index.html"
   status = 200
+https://linktr.ee/Ivana_buy
